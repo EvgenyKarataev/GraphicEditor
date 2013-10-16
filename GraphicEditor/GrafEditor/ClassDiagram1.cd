@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="GraphicEditor.Program" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicEditor.Properties.Resources" Collapsed="true" HideInheritanceLine="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAABEQAAAQCAAAAAAAAAAAAAAJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicEditor.Properties.Settings" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="GraphicEditor.fmAbout" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fmAbout.cs</FileName>
+      <HashCode>AAAAAAAAACAAABAAAASAAAACAAAAAAAAAACAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicEditor.fmRecycle" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fmRecycle.cs</FileName>
+      <HashCode>wAQCOgAIBKEAAEhAQAWIEEACAAAAgAgIhEAIAEAIAIU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicEditor.fmMain" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>main.cs</FileName>
+      <HashCode>L55yn/2SRyf3Lv5vPfz589vnaf/9+XrJpP//62rR+/8=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphic.Items.AllPages" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graphic.Items.DataBuffer" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.GroupItem" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.Item" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.ItemsObj" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graphic.Items.Line" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.ObjComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graphic.Items.OnPage" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.Pie" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.Rec" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.Recycle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graphic.Items.Selected" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Graphic.Items.SelectedCorners" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="Graphic.Items.SavedResult" Collapsed="true">
+    <Position X="9.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="Graphic.Items.ItemOfRecycle" Collapsed="true">
+    <Position X="7.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Enum Name="Graphic.Items.Nows" Collapsed="true">
+    <Position X="9.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Graphic.Items.SaveMode" Collapsed="true">
+    <Position X="7.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Graphic.Items.OpenMode" Collapsed="true">
+    <Position X="11" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Graphic.Items.Corners" Collapsed="true">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+</ClassDiagram>

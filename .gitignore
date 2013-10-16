@@ -1,0 +1,14 @@
+
+GraphicEditor/_ReSharper.GraphicEditor/*
+
+GraphicEditor/GraphicEditor.4.1.resharper.user
+
+GraphicEditor/GrafEditor/obj/*
+GraphicEditor/GrafEditor/bin/*
+Graphic.Items/_ReSharper.Graphic.Items/*
+
+Graphic.Items/ClassLibrary1/obj/*
+
+Graphic.Items/Graphic.Items.4.1.resharper.user
+
+Graphic.Items/ClassLibrary1/bin/*
